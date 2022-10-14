@@ -1,0 +1,4 @@
+1 PROJECT KIFLY
+2 - Konsisten belajar untuk Jadi Frond end/Fullstack
+3 - Membuat portofolio
+4 - Membuat forum diskusi
